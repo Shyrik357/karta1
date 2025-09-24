@@ -1,0 +1,15 @@
+body{ 
+background-color: black; 
+color: silver; 
+font-family: Bradley Hand, cursive; 
+}
+h1{ 
+text-align: center; 
+}
+.golovna{
+letter-spacing: 15px;
+box-shadow: 4px 2px navy, 8px 4px slateblue, 12px 6px turquoise;
+}
+p{
+text-align: center
+}
